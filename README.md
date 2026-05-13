@@ -21,3 +21,5 @@ I'm Shubham Singh — a BTech student at VIT, India, passionate about building c
 * Vibe coding
 
 I enjoy combining logic, creativity, and problem-solving to build meaningful projects.
+
+<img src="ambassador.jpg" width="150" align="right" alt="GSSoC 2026 Ambassador Badge">
